@@ -1,5 +1,8 @@
+Reference: Cai, Yongyang, Kenneth L. Judd, and Jevgenijs Steinbuks (2017). A nonlinear certainty equivalent approximation method for dynamic stochastic problems. Quantitative Economics, 8(1), 117-147.
+
 There are four GAMS code files in this package, for the examples in the following paper 
-Cai, Y., K.L. Judd, and J. Steinbuks (2016). A nonlinear certainty equivalentapproximation method for dynamic stochastic problems. Quantitative Economics (forthcoming).
+Cai, Y., K.L. Judd, and J. Steinbuks (2016). A nonlinear certainty equivalent
+approximation method for dynamic stochastic problems. Quantitative Economics (forthcoming).
 
 The code file growth4D_NLCEQ.gms is for the 2-country real business cycle problem 
 in Section 4 of the above paper; Food_Energy_NLCEQ.gms solves the dynamic stochastic 
